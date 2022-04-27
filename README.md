@@ -1,4 +1,4 @@
-# Webhooks (Callback - No polling)
+# Webhooks aka. Callback, No polling, Reverse API, Push
 
 Webhooks allow external services to be notified when certain events happen.
 
